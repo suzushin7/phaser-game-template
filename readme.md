@@ -43,7 +43,6 @@ npm run build
 ### 概要
 
 このプロジェクトは Phaser 3 を使ったゲームテンプレートです。
-すばやくプロトタイプを作成し、PWA や Firebase Hosting にデプロイできます。
 
 主な特徴：
 
