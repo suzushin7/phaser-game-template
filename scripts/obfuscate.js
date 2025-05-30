@@ -11,7 +11,7 @@ fs.readdirSync(targetDir).forEach((file) => {
 
     const obfuscatedCode = JavaScriptObfuscator.obfuscate(code, {
       compact: true,
-      controlFlowFlattening: true,
+      controlFlowFlattening: false,
       deadCodeInjection: false,
       stringArray: true,
       rotateStringArray: true,
