@@ -1,0 +1,24 @@
+{
+  "name": "phaser-game-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "vite build && node scripts/obfuscate.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "phaser": "^3.90.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.27",
+    "rollup-plugin-obfuscator": "^1.1.0",
+    "typescript": "^5.8.3",
+    "vite": "^6.3.5",
+    "vite-plugin-pwa": "^1.0.0"
+  }
+}
