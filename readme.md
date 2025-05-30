@@ -1,10 +1,10 @@
 # Phaser Game Template
 
-[🇺🇸 English](#english) | [🇯🇵 日本語](#日本語)
+[🇺🇸 English](#english) | [🇯🇵 日本語](#japanese)
 
 ---
 
-## 🇺🇸 English
+<h2 id="english">🇺🇸 English</h2>
 
 ### Overview
 
@@ -38,7 +38,7 @@ npx vite
 npm run build
 ```
 
-## 🇯🇵 日本語
+<h2 id="japanese">🇯🇵 日本語</h2>
 
 ### 概要
 
